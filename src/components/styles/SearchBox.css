@@ -1,0 +1,13 @@
+/* SearchBox.css */
+
+.search-box {
+    margin-bottom: 20px;
+  }
+  
+  .search-box input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+  }
+  
