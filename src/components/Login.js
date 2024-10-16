@@ -4,8 +4,8 @@ import AuthContext from './AuthContext';
 import './styles/Login.css';
 
 const mockUsers = [
-  { email: 'user@example.com', password: 'password' },
-  { email: 'admin@example.com', password: 'admin' },
+  { email: 'ankitsainijeemain@gmail.com', password: 'abc@123' },
+  { email: 'admin@gmail.com', password: 'admin' },
 ];
 
 const Login = () => {
